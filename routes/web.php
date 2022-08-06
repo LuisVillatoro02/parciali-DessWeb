@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ClienteController;
-use App\Http\Controllers\Tipo_ClienteCotroller;
+use App\Http\Controllers\Tipo_ClienteController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes

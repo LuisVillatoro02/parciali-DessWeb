@@ -5,8 +5,10 @@ namespace App\Http\Controllers;
 use App\Models\cliente;
 use App\Models\Tipo_cliente;
 use Illuminate\Http\Request;
+use DB;
 
-class Tipo_ClienteCotroller extends Controller
+
+class Tipo_ClienteController extends Controller
 {
     public function index()
     {
